@@ -19,10 +19,9 @@ elif choice==2:
         print("sub",sub(num1,num2))
 elif choice==3:
         print("add",mul(num1,num2))
-elif choice==4:
-        print("add",div(num1,num2))
+
 else:
-        print("invalid")
+        print("i dont no")
 
     
     
